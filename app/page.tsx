@@ -91,7 +91,7 @@ export default async function Page() {
           Prosimy podawać prawidłowe i kompletne dane w zgłoszeniu. Podanie
           niewłaściwych danych może skutkować brakiem ubezpieczenia dla
           uczestnika Rajdu. W przypadku konieczności zmiany danych uczestnika
-          Rajdu możliwe jest wykonanie korekty do dnia 19 maja 2024 r.
+          Rajdu możliwe jest wykonanie korekty do dnia 25 maja 2025 r.
         </li>
         <li>
           Jeśli w grupie znajdują się osoby niepełnoletnie prosimy w formularzu
